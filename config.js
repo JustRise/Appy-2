@@ -3,7 +3,7 @@ TOKEN: "",
 ownerID: "", //write your discord user id.
 botInvite: "", //write your discord bot invite.
 mongodbURL: "", //write your mongodb url.
-status: '❤️ codeshare.me',
+status: 'Appy 2',
 commandsDir: './commands', //Please don't touch
 language: "en", //en, tr
 embedColor: "ffa954", //hex color code
